@@ -8,6 +8,15 @@ This repository focuses on analyzing graph structures using the USAir97 dataset.
 
 - Visualizations: Provides insights into the network's topology and connectivity.
 
+## Repository Structure
+├── inf-USAir97.mtx # Dataset icludes the network of U.S. airline connections
+
+├── GraphAnalysis.ipynb # Implementation Notebook
+
+├── Report of Analysis.pdf # Detailed report 
+
+├── README.md # This file
+
 
 ## Getting Started
 Clone the repository and run the GraphAnalysis.ipynb notebook to explore the graph.
